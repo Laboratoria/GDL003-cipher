@@ -69,7 +69,7 @@ palabras sencillas, aprenderás a:
 * Entender las **necesidades del usuario** y cómo proponer una solución.
 * Organizar tu tiempo y priorizar tareas en un entorno de **alta incertidumbre**.
 
-## Parte Obligatoria
+## Avance esperado
 
 Usa este alfabeto simple (solamente mayúsculas y sin ñ):
 
@@ -116,10 +116,9 @@ La interfaz debe permitir al usuario:
 * `test/cipher.spec.js`: este archivo contiene algunos tests de ejemplo y acá
   tendrás que implementar los tests para `cipher.encode()` y `cipher.decode()`.
 
-## Parte opcional o “Hacker edition”
+## “Hacker edition”
 
-Las secciones llamadas “Hacker Edition” son opcionales. Si **terminaste** con
-todo lo anterior y te queda tiempo, intenta completarlas. Así podrás profundizar
+Si **terminaste** con todo lo anterior y te queda tiempo, intenta completarlas. Así podrás profundizar
 y/o ejercitar más sobre los objetivos de aprendizaje del proyecto.
 
 La descripción general de este proyecto no menciona qué pasaría con las letras
@@ -182,62 +181,10 @@ entorno (browser en este caso) y las [reglas recomendadas (`"eslint:recommended"
 En cuanto a reglas/guías de estilo en sí,
 usaremos las recomendaciones _por defecto_ de tanto `eslint` como `htmlhint`.
 
-## Evaluación
+## Rúbrica
 
 Te aconsejamos revisar [la rúbrica](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRktPN4ilZtkRN5tUb3DVhgeihwlzk63_-JI3moA-bXpKDbHDioAK2H3qbrwWNb0Ql4wX22Tgv7-PDv/pubhtml)
-para ver la descripción detallada de cada _habilidad_ y cada _nivel_. Esta es
-una lista de todas las habilidades involucradas en este proyecto y que
-evaluaremos cuando lo  completes:
-
-### General
-
-| Característica/Habilidad |
-|--------------------------|
-| Completitud |
-
-### Habilidades Blandas
-
-| Habilidad |
-|-----------|
-| Planificación y organización |
-| Autoaprendizaje |
-| Solución de problemas |
-| Dar y recibir feedback |
-| Adaptabilidad |
-| Trabajo en equipo |
-| Comunicación eficaz |
-| Presentaciones |
-
-### Habilidades Técnicas Front-end
-
-| Habilidad |
-|-----------|
-| **CS** |
-| Lógica |
-| Arquitectura |
-| **SCM** |
-| Git |
-| GitHub |
-| **JavaScript** |
-| Estilo |
-| Nomenclatura/semántica |
-| Funciones/modularidad |
-| Tests |
-| **HTML** |
-| Validación |
-| Estilo |
-| Semántica |
-| **CSS** |
-| DRY |
-| Responsive |
-
-### Habilidades Técnicas UX
-
-| Habilidad |
-|-----------|
-| User Centricity |
-
-***
+para ver la descripción detallada de cada _habilidad_ y cada _nivel_. 
 
 ## Pistas sobre cómo comenzar a trabajar en el proyecto
 
@@ -270,7 +217,9 @@ A continuación un video de Michelle que te lleva a través de la fórmula
 matemática del Cifrado César y un par de cosas más que debes saber para
 resolver este proyecto. ¡Escúchala con detenimiento y sigue sus consejos! :)
 
-[![tips caesar cipher](https://img.youtube.com/vi/zd8eVrXhs7Y/0.jpg)](https://www.youtube.com/watch?v=zd8eVrXhs7Y)
+![Fórmula Cipher](https://img.youtube.com/vi/zd8eVrXhs7Y/0.jpg)
+
+[Video guía ](https://www.youtube.com/watch?v=zd8eVrXhs7Y)
 
 Diseño de experiencia de usuario (User Experience Design):
 
@@ -300,7 +249,7 @@ Herramientas:
 
 Esta sección está para ayudarte a llevar un control de lo que vas completando.
 
-### Parte Obligatoria
+### Avances esperados
 
 * [ ] `README.md` incluye info sobre proceso y decisiones de diseño.
 * [ ] `README.md` explica claramente quiénes son los usuarios y su relación con
@@ -322,7 +271,7 @@ Esta sección está para ayudarte a llevar un control de lo que vas completando.
 * [ ] Interfaz permite escribir un texto para ser descifrado.
 * [ ] Interfaz muestra el resultado del descifrado correctamente.
 
-### Parte Opcional: "Hacker edition"
+### "Hacker edition"
 
 * [ ] Cifra/descifra minúsculas
 * [ ] Cifra/descifra _otros_ caracteres (espacios, puntuación, `ñ`, `á`, ...)
